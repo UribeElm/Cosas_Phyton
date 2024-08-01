@@ -1,0 +1,6 @@
+print("Lado: ")
+l=float(input())
+print("Apotema: ")
+a=float(input())
+r=(l*5)*(a/2)
+print("Resultado ",r,"u^2")

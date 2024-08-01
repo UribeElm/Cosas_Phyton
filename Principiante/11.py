@@ -1,0 +1,6 @@
+print("Altura:")
+h=float(input())
+print("Peso: ")
+m=float(input())
+r=m/(h*h)
+print("Resultado: ",r)

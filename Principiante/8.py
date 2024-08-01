@@ -1,0 +1,8 @@
+print("Altura: ")
+h=float(input())
+print("Base mayor: ")
+a=float(input())
+print("Base menor: ")
+b=float(input())
+r=h*((a+b)/2)
+print("Resultado: ",r,"u^2")
